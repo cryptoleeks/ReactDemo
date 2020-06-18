@@ -1,0 +1,4 @@
+{
+    "presets": ["env", "stage-0", "react"],//3个  安装babel时候的
+    "plugins": ["transform-runtime"]//plugin插件
+}
